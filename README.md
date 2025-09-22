@@ -57,3 +57,17 @@ Total Distance = SUM('Trip Details'[Distance])
 Night Trip % =
 VAR NightCount = CALCULATE([Total Trips], 'Trip Details'[Shift] = "Night")
 RETURN DIVIDE(NightCount, [Total Trips], 0)
+
+---
+👨‍💻 Author
+Abhishek Bity
+📧 Email: bityabhishekwork@gmail.com
+
+
+
+
+## 📜 License
+
+This project is free to use for educational and personal portfolio purposes.
+
+
