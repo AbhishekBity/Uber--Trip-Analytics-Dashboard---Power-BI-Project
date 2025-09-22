@@ -59,15 +59,17 @@ VAR NightCount = CALCULATE([Total Trips], 'Trip Details'[Shift] = "Night")
 RETURN DIVIDE(NightCount, [Total Trips], 0)
 
 ---
-👨‍💻 Author
-Abhishek Bity
-📧 Email: bityabhishekwork@gmail.com
 
+## 👨‍💻 Author
 
+**Abhishek Bity**  
+Data Analyst | Power BI Developer  
 
+- 💼 LinkedIn: [linkedin.com/in/abhishekbity](https://linkedin.com/in/abhishekbity)  
+- 📧 Email: bityabhishekwork@gmail.com  
+- 📂 GitHub: [github.com/abhishekbity](https://github.com/abhishekbity)  
 
-## 📜 License
+---
 
-This project is free to use for educational and personal portfolio purposes.
 
 
